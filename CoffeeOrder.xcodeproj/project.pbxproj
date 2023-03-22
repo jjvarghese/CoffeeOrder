@@ -21,6 +21,7 @@
 		E13347F929CB07EB000DC23C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E13347FC29CB07EB000DC23C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E133480329CB0875000DC23C /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = CoffeeOrder/.gitignore; sourceTree = SOURCE_ROOT; };
+		E133480529CB08A3000DC23C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		E13347E929CB07EA000DC23C = {
 			isa = PBXGroup;
 			children = (
+				E133480529CB08A3000DC23C /* README.md */,
 				E13347F429CB07EA000DC23C /* CoffeeOrder */,
 				E13347F329CB07EA000DC23C /* Products */,
 			);
