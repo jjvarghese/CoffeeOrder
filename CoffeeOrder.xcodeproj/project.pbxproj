@@ -11,6 +11,7 @@
 		E13347F829CB07EA000DC23C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13347F729CB07EA000DC23C /* ContentView.swift */; };
 		E13347FA29CB07EB000DC23C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E13347F929CB07EB000DC23C /* Assets.xcassets */; };
 		E13347FD29CB07EB000DC23C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E13347FC29CB07EB000DC23C /* Preview Assets.xcassets */; };
+		E133480429CB0875000DC23C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E133480329CB0875000DC23C /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E13347F729CB07EA000DC23C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E13347F929CB07EB000DC23C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E13347FC29CB07EB000DC23C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E133480329CB0875000DC23C /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = CoffeeOrder/.gitignore; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		E13347F429CB07EA000DC23C /* CoffeeOrder */ = {
 			isa = PBXGroup;
 			children = (
+				E133480329CB0875000DC23C /* .gitignore */,
 				E13347F529CB07EA000DC23C /* CoffeeOrderApp.swift */,
 				E13347F729CB07EA000DC23C /* ContentView.swift */,
 				E13347F929CB07EB000DC23C /* Assets.xcassets */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E13347FD29CB07EB000DC23C /* Preview Assets.xcassets in Resources */,
+				E133480429CB0875000DC23C /* .gitignore in Resources */,
 				E13347FA29CB07EB000DC23C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
